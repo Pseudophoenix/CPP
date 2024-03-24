@@ -1,0 +1,10 @@
+Find greatest number
+Palindrome
+Factorial
+Prime
+Fibbonacci
+Reverse String
+Binary Search Algorithm
+Sum of digits of a number
+Matrix addition, multiplication
+Armstrong Number

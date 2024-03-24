@@ -1,0 +1,11 @@
+Objects:
+	Book
+	Student
+	Teacher
+	Date
+Book:
+	Actions:
+		Issued, Returned
+	Characters:
+		Name, Serial number, Genre, Date of Issue, Date of Return
+		
